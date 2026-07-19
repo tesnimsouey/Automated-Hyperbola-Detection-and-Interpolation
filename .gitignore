@@ -31,3 +31,9 @@ Desktop.ini
 # Temporary files
 *.tmp
 *.log
+# Large datasets
+with_aug/
+without_aug/
+
+# Generated results
+results/
