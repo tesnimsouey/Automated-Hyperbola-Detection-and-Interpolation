@@ -1,0 +1,33 @@
+# MATLAB autosave files
+*.asv
+
+# MATLAB editor backup files
+*.m~
+
+# Compiled MEX files
+*.mex*
+
+# P-code files
+*.p
+
+# Simulink generated files
+slprj/
+*_rtw/
+
+# MATLAB cache
+resources/project/
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
