@@ -6,9 +6,9 @@ The original dataset contains several thousand augmented and non-augmented image
 
 To keep this repository lightweight, the complete dataset is hosted on Google Drive.
 
-**Download the complete dataset here:**
+**Download the complete dataset and results here:**
 
-👉 **[Google Drive Dataset](https://drive.google.com/drive/folders/1dykgnTrQg-pc5dr9Nfn6eOjGajf7f_Uh?usp=sharing)**
+👉 **[Google Drive Dataset and results](https://drive.google.com/drive/folders/1dykgnTrQg-pc5dr9Nfn6eOjGajf7f_Uh?usp=sharing)**
 
 ## Requirements
 
