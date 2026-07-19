@@ -1,0 +1,2 @@
+# Automated-Hyperbola-Detection-and-Interpolation
+A MATLAB-based computer vision pipeline for automated hyperbola detection, interpolation, and quantitative evaluation on augmented and non-augmented image datasets. The project performs hyperbola detection, generates annotated outputs, compares multiple interpolation methods and evaluates performance using EMR and standard machine learning metrics.
